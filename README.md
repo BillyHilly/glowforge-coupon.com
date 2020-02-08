@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Glowforge Coupon — Save up-to $500
 
-You can use the [editor on GitHub](https://github.com/BillyHilly/glowforge-coupon.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Use this discount Glowforge® coupon when you’re ready to purchase a new Glowforge laser. With this coupon, you can save as much as $500 (Pro model). Click to save now on your Glowforge purchase.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BillyHilly/glowforge-coupon.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How to use this Glowforge coupon
+<figure>
+<blockquote>
+  <q>
+    a. navigate to the Referrer’s Referral Link;<br />
+    b. without navigating away or utilizing a different discount, place a qualifying order directly from Glowforge while the website indicates that the Referrer’s Referral Link is being used;
+  </q>
+  </blockquote>
+  <figcaption>~ Glowforge Referral Terms & Conditions webpage <br />
+    <cite><a href="https://glowforge.com/m/referral-terms" target="_blank" rel="noreferrer noopener">glowforge.com/m/referral-terms</a></cite>
+</figure>
+  
+If you use this link, thank you. You’ll get a discount, and I’ll get credits too — it’s a win/win/win!
