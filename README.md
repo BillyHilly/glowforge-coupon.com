@@ -2,9 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="Click to save up-to $500 on your Glowforge purchase" />
 
-<h1><a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">Glowforge Coupon</a> — Save up to $500 instantly</h1>
-
-<h2><a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">Click to Save Now on your Glowforge purchase at Glowforge.com</a></h2>
+<h2><a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">Glowforge Coupon</a> — Save up to $500 instantly</h2>
 
 <p><a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">Use this discount Glowforge® coupon</a> when you’re ready to purchase a new Glowforge laser. With this <a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">coupon</a>, you can save $500 (Pro model) / $250 (Plus model) / $100 (Basic model). Click to save now on your Glowforge purchase.</p>
 
@@ -22,4 +20,4 @@
 </figure>
   
   
-If you use <a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">this link, thank you. You’ll get a discount, and I’ll get credits too — it’s a win/win/win!
+<p>If you use <a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">this link, thank you. You’ll get a discount, and I’ll get credits too — it’s a win/win/win!</p>
