@@ -1,4 +1,4 @@
-# (Glowforge Coupon — Save up-to $500)[https://glowforge.us/r/BNarDD]
+# Glowforge Coupon — Save up-to $500)
 
 (Click to Save Now on your Purchase on Glowforge.com)[https://glowforge.us/r/BNarDD]
 
