@@ -14,6 +14,8 @@ Use this discount Glowforge® coupon when you’re ready to purchase a new Glowf
   </blockquote>
   <figcaption>~ Glowforge Referral Terms & Conditions webpage <br />
     <cite><a href="https://glowforge.com/m/referral-terms" target="_blank" rel="noreferrer noopener">glowforge.com/m/referral-terms</a></cite>
+  </figcaption>
 </figure>
+  
   
 If you use (this link)[https://glowforge.us/r/BNarDD], thank you. You’ll get a discount, and I’ll get credits too — it’s a win/win/win!
