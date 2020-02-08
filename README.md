@@ -1,3 +1,7 @@
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Click to save up-to $500 on your Glowforge purchase" />
+
 <h1><a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">Glowforge Coupon</a> — Save up to $500 instantly</h1>
 
 <h2><a href="https://glowforge.us/r/BNarDD" target="_blank" rel="noreferrer noopener">Click to Save Now on your Glowforge purchase at Glowforge.com</a></h2>
